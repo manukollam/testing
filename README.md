@@ -1,3 +1,3 @@
 # testing
 
-This is a testing repository update version 6
+This is a testing repository update version 7
